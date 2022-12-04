@@ -3,7 +3,7 @@
 
 🖥️ This is cool! 🖥️
 
-[PROJECTS] (https://github.com/jeremywilliams4/jwilliams.github.io.git)
+Check out some of my work here [PROJECTS](https://github.com/jeremywilliams4/jwilliams.github.io.git)
 
 ## NARRATIVE
 
