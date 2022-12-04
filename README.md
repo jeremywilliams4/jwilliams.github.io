@@ -1,6 +1,8 @@
 # JEREMY WILLIAMS, SOFTWARE DEVELOPER
 ![copper_pattern](https://user-images.githubusercontent.com/75949144/205489662-106c1ff5-81a7-4fc8-9f36-51a82d5f0984.jpeg)
 
+
+
 ## NARRATIVE
 
 My artifact for the: 1) Software Design and Engineering, 2) Algorithms and Data Structures, and 3) Databases, categories is a program titled, “ClientList”. This is a project from my CS410 class, Software Reverse Engineering. This is a simple program that prompts the user to select from a menu of options and then reacts according to that input. The program will display a current list of clients, and then allow the user to select a specific client to view their investment option, or exit the program. I chose this program because it seemed like a great example of a real-world scenario and could allow for expandability. I imagined this type of program to be much like one that a business such as a bank, for example, may use to keep track of client information. The program is quite simple but is still able to showcase my ability to transform a real-world business need and convert it into a software solution.
@@ -25,5 +27,6 @@ ii.	I was also able to meet this course outcome by including descriptive, inform
 i.	
 ### 4)	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
 5)	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+[CS410_Project1.zip](https://github.com/jeremywilliams4/jwilliams.github.io/files/10148467/CS410_Project1.zip)
 
 
