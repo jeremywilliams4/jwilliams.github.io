@@ -2,7 +2,8 @@
 ![copper_pattern](https://user-images.githubusercontent.com/75949144/205489662-106c1ff5-81a7-4fc8-9f36-51a82d5f0984.jpeg)
 
 🖥️ This is cool! 🖥️
-https://github.com/jeremywilliams4/jwilliams.github.io.git
+
+[PROJECTS] (https://github.com/jeremywilliams4/jwilliams.github.io.git)
 
 ## NARRATIVE
 
